@@ -1,4 +1,5 @@
 public with sharing class DemoScenariosController {
+    // LOG-3015 QA marker v3
 
     private static final String SIMPLE_APEX_TRIGGER_SCENARIO = 'Simple Apex Trigger',
             APEX_BATCH_JOB_SCENARIO = 'Apex Batch Job',
